@@ -1,2 +1,0 @@
-# Rangga
-Menjadi devloper
